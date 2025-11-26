@@ -19,4 +19,4 @@ Hi there! I'm **Osama Khaled**, AI Engineer and tech enthusiast especially in Ar
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/osama-khaled-739984218/)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:osamakhaled132000@gmail.com)
 <a href="https://www.kaggle.com/osamaakhaled"> <img src="https://user-images.githubusercontent.com/29145628/169890853-30aa8606-54cc-4e75-b93a-dc3ac6a8b37c.png" height="40" width="68"><br>
-[![Kaggle](https://cdn.iconscout.com/icon/free/png-256/free-kaggle-logo-icon-svg-download-png-2945029.png)](https://www.kaggle.com/osamaakhaled)
+
